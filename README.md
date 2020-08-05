@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cristianxew&show_icons=true&hide_border=true" />
 
 [website]: https://covidd-tracker-19.netlify.app/
 [facebook]: https://www.facebook.com/cristian.bernal.399
