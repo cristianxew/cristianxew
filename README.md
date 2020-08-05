@@ -1,11 +1,11 @@
 ### Hi there, I'm Cristian - [CristianBernal][website] 👋
 
-## I'm a Husband, Developer, and Guitar player!
+## I'm a passionate Developer and Guitar player!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React! <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play guitar!!
 
 ### Connect with me:
 
