@@ -1,8 +1,8 @@
-### Hi there, I'm Cristian - [CristianBernal][website] 👋
+### Hi there, I'm [CristianBernal][website] 👋
 
-## I'm a passionate Developer and Guitar player!
+### I am a Full-stack web developer based in Warsaw. I'm very passionate about programming and developing beautiful and efficient web applications
 
-- 🌱 I’m currently learning React! <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🌱 I’m currently learning React and redux <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar!!
@@ -43,9 +43,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cristianxew&show_icons=true&hide_border=true" />
+<img align="left" alt="CristianBernal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cristianxew&show_icons=true&hide_border=true" />
 
-[website]: https://covidd-tracker-19.netlify.app/
+[website]: https://peaceful-knuth-db8539.netlify.app/
 [facebook]: https://www.facebook.com/cristian.bernal.399
 [instagram]: https://www.instagram.com/cristian_sa15/?hl=es
 [linkedin]: https://www.linkedin.com/in/cristian-bernal-52b75415b/
