@@ -2,7 +2,7 @@
 
 ### I am a Full-stack web developer based in Warsaw. I'm very passionate about programming and developing beautiful and efficient web applications
 
-- 🌱 I’m currently learning React and redux <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- I’m currently learning React and redux <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar!!
