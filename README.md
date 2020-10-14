@@ -14,9 +14,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey As a Web Developer](https://cristianbernal.commy-journey-as-a-web-developer)
-- [difference between var, let, and const](https://cristianbernal.comdifference-between-let-var-and-const)
-- [Difference between == and ===](https://cristianbernal.comdifference-between-and)
+- [My Journey As a Web Developer](https://cristianbernal.com/blogs/my-journey-as-a-web-developer)
+- [difference between var, let, and const](https://cristianbernal.com/blogs/difference-between-let-var-and-const)
+- [Difference between == and ===](https://cristianbernal.com/blogs/difference-between-and)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
