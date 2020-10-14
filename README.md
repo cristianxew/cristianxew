@@ -7,7 +7,7 @@
 - 💬 Ask me about **Html5, Css, Javascript, React**
 - 📫 How to reach me **cristianxsa15@gmail.com**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1TA0iVtWcAkw8drcM5PvvIiOn2SA0EzQz/view?usp=sharing)
 - ⚡ Fun fact **Love to play guitar!**
 
