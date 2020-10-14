@@ -34,5 +34,5 @@
 
 [website]: https://cristianbernal.com/
 [instagram]: https://instagram.com/https://www.instagram.com/cristian_sa15/?hl=en
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/cristian-bernal-52b75415b/
-[facebook]: https://fb.com/https://www.facebook.com/cristian.bernal.399/
+[linkedin]: https://www.linkedin.com/in/cristian-bernal-52b75415b/
+[facebook]: https://www.facebook.com/cristian.bernal.399/
