@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://cristianbernal.com](https://cristianbernal.com)
+- 👨‍💻 All of my projects are available at [https://cristianbernal.com](https://cristianbernal.com/projects)
 
 - 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 
@@ -22,10 +22,14 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-bernal-52b75415b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/cristian-bernal-52b75415b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/cristian.bernal.399/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/cristian.bernal.399/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/cristian_sa15/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/cristian_sa15/?hl=en" height="30" width="40" /></a>
-<a href="/https://cristianbernal.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="https://cristianbernal.com" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-bernal-52b75415b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/cristian-bernal-52b75415b/" height="30" width="40" ></a>
+
+<a href="https://fb.com/https://www.facebook.com/cristian.bernal.399/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/cristian.bernal.399/" height="30" width="40" ></a>
+
+<a href="https://instagram.com/https://www.instagram.com/cristian_sa15/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/cristian_sa15/?hl=en" height="30" width="40" ></a>
+
+<a href="/https://cristianbernal.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="https://cristianbernal.com" height="30" width="40" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
