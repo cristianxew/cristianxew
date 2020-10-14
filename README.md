@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianxew&show_icons=true" alt="cristianxew" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianxew&label=Profile%20views&color=0e75b6&style=flat" alt="cristianxew" /> </p>
 
-[website]: https://cristianbernal.com/
-[instagram]: https://instagram.com/https://www.instagram.com/cristian_sa15/?hl=en
-[linkedin]: https://www.linkedin.com/in/cristian-bernal-52b75415b/
-[facebook]: https://www.facebook.com/cristian.bernal.399/
+[website]: https://cristianbernal.com
+[instagram]: https://www.instagram.com/cristian_sa15/?hl=en
+[linkedin]: https://www.linkedin.com/in/cristian-bernal-52b75415b
+[facebook]: https://www.facebook.com/cristian.bernal.399
