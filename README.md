@@ -2,7 +2,7 @@
 <h3 align="left">A passionate web developer who enjoys learning new technologies and love building beautiful and efficient web applications.</h3>
 
 - 🌱 I’m currently learning **Typescript, Next.js, GraphQL**
-- 👨‍💻 All of my projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
+- 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
 - 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 - 💬 Ask me about **Html5, Css, Javascript, React**
 - 📫 How to reach me **cristianxsa15@gmail.com**
