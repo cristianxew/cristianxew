@@ -6,7 +6,6 @@
 - 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 - 💬 Ask me about **Html5, Css, Javascript, React**
 - 📫 How to reach me **cristianxsa15@gmail.com**
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact **Love to play guitar!**
 
