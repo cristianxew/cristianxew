@@ -6,7 +6,7 @@
 - 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 - 📫 How to reach me **cristianxsa15@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact **Love to play guitar!**
+- ⚡ Fun fact **Love to play guitar!!**
 
 ### 📕 Latest Blog Posts
 
