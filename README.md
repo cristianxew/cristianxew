@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Cristian Bernal</h1>
 <h3 align="left">A passionate web developer who enjoys learning new technologies and love building beautiful and efficient web applications.</h3>
 
-- 🌱 I’m currently learning **Typescript, Next.js, GraphQL**
+- 🌱 I’m currently learning **Typescript and Next.js**
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
 - 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 - 📫 How to reach me **cristianxsa15@gmail.com**
