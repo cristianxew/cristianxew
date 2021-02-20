@@ -11,9 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey As a Web Developer](https://cristianbernal.com/blogs/my-journey-as-a-web-developer)
+- [setTimeout vs setInterval](https://cristianbernal.com/blogs/set-timeout-vs-set-interval)
 - [difference between var, let, and const](https://cristianbernal.com/blogs/difference-between-let-var-and-const)
 - [Difference between == and ===](https://cristianbernal.com/blogs/difference-between-and)
+- [Los Llanos - Colombia](https://cristianbernal.com/blogs/los-llanos-colombia)
+- [Cartagena Colombia](https://cristianbernal.com/blogs/cartagena-colombia)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
