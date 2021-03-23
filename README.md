@@ -11,8 +11,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [setTimeout vs setInterval](https://cristianbernal.com/blog/set-timeout-vs-set-interval)
 - [difference between var, let, and const](https://cristianbernal.com/blog/difference-between-let-var-and-const)
+- [setTimeout vs setInterval](https://cristianbernal.com/blog/set-timeout-vs-set-interval)
 - [Difference between == and ===](https://cristianbernal.com/blog/difference-between-and)
 - [Los Llanos - Colombia](https://cristianbernal.com/blog/los-llanos-colombia)
 - [Cartagena Colombia](https://cristianbernal.com/blog/cartagena-colombia)
