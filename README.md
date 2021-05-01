@@ -8,16 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact **Love to play guitar!!**
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [difference between var, let, and const](https://cristianbernal.com/blog/difference-between-let-var-and-const)
-- [setTimeout vs setInterval](https://cristianbernal.com/blog/set-timeout-vs-set-interval)
-- [Difference between == and ===](https://cristianbernal.com/blog/difference-between-and)
-- [Los Llanos - Colombia](https://cristianbernal.com/blog/los-llanos-colombia)
-- [Cartagena Colombia](https://cristianbernal.com/blog/cartagena-colombia)
-<!-- BLOG-POST-LIST:END -->
-
 ### Connect with me:
 
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/cristian-bernal-52b75415b/" height="30" width="40"/>][linkedin]
