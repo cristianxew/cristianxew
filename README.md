@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
-- 📝 I regulary write articles on [https://cristianbernal.com/blog](https://cristianbernal.com/blog)
 - 📫 How to reach me **cristianxsa15@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact **Love to play guitar!!**
