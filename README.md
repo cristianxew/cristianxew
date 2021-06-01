@@ -5,7 +5,6 @@
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
 - 📫 How to reach me **cristianxsa15@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact **Love to play guitar!!**
 
 ### Connect with me:
 
