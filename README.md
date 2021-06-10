@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Cristian Bernal</h1>
-<h3 align="left">A passionate web developer who enjoys learning new technologies and love building beautiful and efficient web applications.</h3>
+<h3 align="left">A passionate web developer!</h3>
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
