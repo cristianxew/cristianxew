@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Cristian Bernal</h1>
 <h3 align="left">A passionate web developer!</h3>
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **python**
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
 - 📫 How to reach me **cristianxsa15@gmail.com**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
