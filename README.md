@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **python**
 - 👨‍💻 Some of my favorite projects are available at [https://cristianbernal.com/projects](https://cristianbernal.com/projects)
 - 📫 How to reach me **cristianxsa15@gmail.com**
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -16,4 +16,4 @@
 
 [website]: https://cristianbernal.com
 [instagram]: https://www.instagram.com/cristian_sa15/?hl=en
-[linkedin]: https://www.linkedin.com/in/cristian-bernal-52b75415b
+[linkedin]: https://www.linkedin.com/in/cristian-l-bernal/
